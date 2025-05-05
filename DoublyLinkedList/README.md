@@ -1,4 +1,4 @@
-# 🧩 Doubly Linked Lists
+# 🔗🔗🔗 Doubly Linked Lists
 
 Welcome to the **Doubly Linked List** Folder! This project explains and demonstrates how a **doubly linked list** works in computer science, using clear code examples and visualizations.
 
@@ -21,7 +21,8 @@ This allows **bi-directional traversal**, unlike a singly linked list which only
 
 ## 🔗 How I learned Doubly Linked Lists
 
-  Consider a web browser. WHen you hit the back arrow to go to the previous page it is able to do so because the current page holds a reference to the page previously visited. Because there are references to the the previous and next page, it is possible to navigate forwards and backwards because the chain is linked both directions
+  Consider a web browser. When you hit the back arrow to go to the previous page it is able to do so because the current page holds a reference to the page previously visited. Because there are references to the the previous and next page, it is possible to navigate forwards and backwards because the chain is linked both directions.
+  
   Head -> [Prev Page: None | Page DATA A| Next Page: B] <-> [Prev Page: A | Page DATA B | Next Page: C] <-> [Prev Page: B | Page DATA  C | Next Page: D]
 
 
