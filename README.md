@@ -31,7 +31,6 @@ Welcome to **Data Structures Templates**, this is a collection of both introduct
 ### 🔹 Hashing & Maps
 - [x] Hash Maps
 - [x] Sets
-- [x] Custom Hash Functions
 ---
 
 
